@@ -11,7 +11,7 @@ class A{
     public A() {
     }
     String meth(){
-        return "Invoking method from class A";
+        return "Invoking method fro class A";
     }
 }
 
